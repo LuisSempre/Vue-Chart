@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "polished": "^4.0.3",
+    "vue": "^3.0.0",
+    "vue-chartist": "^2.3.1",
+    "vue-styled-components": "^1.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
